@@ -1,0 +1,170 @@
+
+ {
+    "Curso": "Desarrollo Web",
+    "Programa": "Chicas Tec",
+    "Grupo": "G5",
+    "profesores":[  
+    {
+         "nombre": "Favio",
+         "apellido": "Terrones",
+         "edad": 23,
+         "hobbie": "Escuchar musica",
+         "avatar": "https://www.eldiario.net/portal/wp-content/uploads/2023/01/3.jpg"
+
+    },
+    {
+        "nombre": "Miriam",
+        "apellido": "Briceño",
+        "edad": 41,
+        "hobbie": "Ver tv",
+        "avatar" : "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEORk8YG12Dt-jEKHH9OqmCUT4dDmadqP8UrC8P91xmn9MNZbdsatMF-I7nhTWZ1xJgh8AhVpfo8On7RMQy1FU4SiV4b3=w1600-h757"
+    }],
+    "Estudiantes" : [
+        {
+          "nombre": "Melani",
+          "apellido": "Medina",
+          "edad": 18,
+          "hobbie": "Leer",
+          "avatar": "https://static1.personality-database.com/profile_images/3017b6040374436d9b34efe26aee5d6e.png"   
+        },
+        {
+            "nombre": "Yassira" ,
+            "apellido": "Yauri",
+            "edad": 18 ,
+            "hobbie": "Hacer deporte",
+            "avatar": "https://elcomercio.pe/resizer/hTwNPv1gzeveQZXRuUwUPUN2EGk=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/CEIVW2DFLRCMPDHRPLWF2YQSXE.jpg"
+        },
+        {
+            "nombre": "Meily" ,
+            "apellido": "Lopez",
+            "edad": 16 ,
+            "hobbie": "Ni uno",
+            "avatar" :  "https://lamenteesmaravillosa.com/wp-content/uploads/2022/03/panda-rojo.jpg" 
+        },
+        {
+            "nombre": "Roxana",
+            "apellido": "Arroyo" ,
+            "edad": 17 ,
+            "hobbie": "Escuchar musica",
+            "avatar" : "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/WKBBJ5K3CZCN3A7JNEU7A7ICAM.JPG" 
+        },
+        {
+            "nombre": "Stefanny",
+            "apellido": "Farroñan" ,
+            "edad": 18 ,
+            "hobbie": "Escuchar musica" ,
+            "avatar" : "https://upload.wikimedia.org/wikipedia/commons/9/9c/Shanghai_Toy_Story_Land_%28cropped%29.jpg"  
+        },
+        {
+            "nombre": "Jarumy" ,
+            "apellido": "Flores",
+            "edad": 18 ,
+            "hobbie": "Ver dramas",
+            "avatar" : "https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" 
+        },
+        {
+            "nombre": "Sajury" ,
+            "apellido": "Llacsa" ,
+            "edad": 18,
+            "hobbie": "Escuchar musica",
+            "avatar" : "https://i.pinimg.com/550x/28/c1/41/28c141badb21c9aa88fc214f7e6dc4af.jpg" 
+        },
+        {
+            "nombre": "Camila",
+            "apellido": "Julca",
+            "edad": 19 ,
+            "hobbie": "Dormir",
+            "avatar" : "https://www.telemundo.com/sites/nbcutelemundo/files/styles/fit-760w/public/sites/nbcutelemundo/files/images/article/2014/08/28/hello_kitty_140920568644_4.jpg?ramen_itok=iqwQftIcTf" 
+        },
+        {
+            "nombre": "Melissa" ,
+            "apellido": "Blas",
+            "edad": 16 ,
+            "hobbie": "Leer",
+            "avatar" : "https://www.nacionflix.com/__export/1621619611313/sites/debate/img/2021/05/21/arenita-nickelodeon-bob-esponja.png_1902800913.png" 
+        },
+        {
+            "nombre": "Arely" ,
+            "apellido": "Acaro",
+            "edad": 15 ,
+            "hobbie": "Jugar Voley",
+            "avatar" : "https://peru21.pe/resizer/w-orgs1i22meJ7PMu7taBpfiqus=/1200x1200/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/GM5AYN6U7VCLLDMZGBMXMC7IPY.jpg" 
+        },
+        {
+            "nombre": "Osiris",
+            "apellido": "Castro",
+            "edad": 14,
+            "hobbie": "Jugar Voley",
+            "avatar" : "https://upload.wikimedia.org/wikipedia/commons/c/ca/Siberian-husky.jpg"
+        },
+        {
+            "nombre": "Samy",
+            "apellido": "Melgarejo",
+            "edad": 18 ,
+            "hobbie": "Ver Peliculas",
+            "avatar" : "https://www.hogarmania.com/archivos/202209/curiosidades-del-oso-panda-1280x720x80xX.jpg" 
+        },
+        {
+            "nombre": "Francis",
+            "apellido": "Aguilar",
+            "edad": 17,
+            "hobbie": "Escuchar musica",
+            "avatar": "https://static.eldiario.es/clip/ab74aa95-3656-424c-8ca1-dce590aabb97_16-9-discover-aspect-ratio_default_0.jpg" 
+        },
+        {
+            "nombre": "Maria" ,
+            "apellido": "Briceño" ,
+            "edad": 18 ,
+            "hobbie": "Escuchar musica",
+            "avatar" : "https://ichef.bbci.co.uk/news/640/cpsprodpb/14EC6/production/_124820758_pug1.jpg" 
+        },
+        {
+            "nombre": "Milenka",
+            "apellido": "Bardales",
+            "edad": 18 ,
+            "hobbie": "Escuchar musica" ,
+            "avatar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Procyon_lotor_%28raccoon%29.jpg/230px-Procyon_lotor_%28raccoon%29.jpg" 
+        },
+        {
+            "nombre": "Heydi",
+            "apellido": "Tarazona",
+            "edad": 18 ,
+            "hobbie": "Jugar basket",
+            "avatar" : "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_1440x810/public/media/image/2022/11/pikachu-pokemon-escarlata-purpura-2888180.jpg?itok=A3KWi2FB"
+        },
+        {
+            "nombre": "Dafne",
+            "apellido": "Cerna",
+            "edad": 15 ,
+            "hobbie": "Box",
+            "avatar" : "https://production.listennotes.com/podcasts/cuentos-m%C3%A1gicos/63-el-osito-winnie-the-pooh-4iF1RwvLKx2-tyADjX5bMvV.1400x1400.jpg"  
+        },
+        {
+            "nombre": "Nicol",
+            "apellido": "Isla",
+            "edad": 17 ,
+            "hobbie": "Leer",
+            "avatar" : "https://pbs.twimg.com/profile_images/1013655389861228544/3V7UgAXV_400x400.jpg"
+        },
+        {
+            "nombre": "Ayellen",
+            "apellido": "Soto",
+            "edad": 16,
+            "hobbie": "Jugar Voley",
+            "avatar" : "https://upload.wikimedia.org/wikipedia/en/c/c7/Todoroki_SJG_Spring_2021.png"       
+        }   
+
+    ]
+}
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

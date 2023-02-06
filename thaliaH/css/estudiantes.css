@@ -1,0 +1,43 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.buscador{
+    margin-bottom: 15px;
+}
+
+.main{
+    border: 1px solid red;  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: fit-content;
+    overflow: hidden;
+    padding: 10px;
+}
+
+section{
+    border: 1px solid black;
+    width: 250px;
+    height: 300px;
+    padding: 15px;
+    background-color: rgba(19, 164, 164, 0.857);
+    margin-bottom: 7px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+h4{
+     text-align: center;
+     font-size: 25px;
+}
+

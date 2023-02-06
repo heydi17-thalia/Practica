@@ -1,0 +1,37 @@
+
+*{
+    box-sizing: border-box;
+}
+
+#btnInfo{
+    height: 50px;
+    border: 1px solid rgba(255, 0, 0, 0.6);
+    outline: none;
+    background: rgba(255, 0, 0, 0.3); 
+    color: #fff;
+    cursor: pointer;
+}
+
+#resultado{
+    width: 500px;
+}
+
+.mensaje{
+    width: 80%;
+    margin: 10px auto;
+    line-height: 35px;
+    text-align: center;
+    border: 1px solid rgba(0, 255, 0, 0.9);
+    background-color: rgba(0,255,0,0.3);
+    color: #000;
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.imagen-bonita{
+    width: 350px;
+    display: block;
+    margin: 10px auto;
+    border: 1px solid brown;
+    padding: 15px;
+}

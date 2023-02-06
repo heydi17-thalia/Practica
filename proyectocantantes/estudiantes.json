@@ -1,0 +1,15 @@
+{
+     "Curso": "Desarrollo web",
+     "Programa": "chicas tec",
+     "Grupo": "G5",
+     "Estudiante" : [
+        {
+            "nombre": "Melani",
+            "apellido": "Medina",
+            "edad": 18,
+            "hobbie": "leer",
+            "avatar": 
+        }
+    
+     ]
+}

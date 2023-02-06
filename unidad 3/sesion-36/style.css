@@ -1,0 +1,21 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.flex-container{
+    background: red;
+    width: 55%;
+    height: 150px;
+    display: flex; 
+    flex-wrap: wrap;
+}
+
+.flex-container div{
+    background: yellow;
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    margin: 2px;
+}
+

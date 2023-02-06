@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(24, 215, 240);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: 0 50%;
+   
+}
+.f{
+   position: absolute;
+   z-index: 1000;
+}
